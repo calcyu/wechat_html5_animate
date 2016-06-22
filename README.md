@@ -4,8 +4,6 @@
 ##制作HTML5动画的动机
 微信上收到了一个可以编辑祝福语的拜年H5，估想尝试一下如何制作。
 
-##效果展示
-http://www.wanmagu.com/html5
 
 ##制作工具
 Adobe Edge Animate CC

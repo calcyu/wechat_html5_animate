@@ -2,7 +2,7 @@
 ##微信上的HTML5动画，类似易企秀效果。
 
 ##制作HTML5动画的动机
-微信上收到了一个可以编辑祝福语的拜年H5，估想尝试一下如何制作。
+微信上收到了一个可以编辑祝福语的拜年H5，故想尝试一下如何制作。
 
 
 ##制作工具
@@ -29,3 +29,5 @@ http://www.oschina.net/p/browserswipe-js
 下载微信中的JS-SDK的DEMO基本搞定。
 http://mp.weixin.qq.com/wiki/11/74ad127cc054f6b80759c40f77ec03db.html
 
+## 更新说明
+2017-01-30 增加gh-pages效果预览界面 [geek5.cn/wechat_html5_animate](geek5.cn/wechat_html5_animate)

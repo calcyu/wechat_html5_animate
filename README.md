@@ -30,4 +30,4 @@ http://www.oschina.net/p/browserswipe-js
 http://mp.weixin.qq.com/wiki/11/74ad127cc054f6b80759c40f77ec03db.html
 
 ## 更新说明
-2017-01-30 增加gh-pages效果预览界面 [http://geek5.cn/wechat_html5_animate](geek5.cn/wechat_html5_animate)
+2017-01-30 增加gh-pages效果预览界面 [http://geek5.cn/wechat_html5_animate](http://geek5.cn/wechat_html5_animate)
